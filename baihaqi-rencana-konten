@@ -3,7 +3,10 @@ rencana konten baihaqi
 -javascript
 *ES6
 *Framework Javascript
+  ^vue
 - Struktur Data Dasar
 -php framework
+  ^Laravel
 -interview
 -vlog
+-Python
